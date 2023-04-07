@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sharvil</h1>
-<h3 align="center">Always want to improve my skills and learn new things</h3>
-<img src="https://imgs.search.brave.com/IAf4rGXKes4-vP0v-oHhqIQwvNCTlJRltN6QP2zHfQo/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2YxL2U3/LzM0L2YxZTczNGY5/Y2FkZTg2ZmU3Mzdh/OWFhNDA0YWQ1Njc3/LmdpZg.gif" align="center" alt="sleeping" width="400px">
+# 💫 About Me:
+🔭 I’m currently learning flutter<br>🤝 I’m looking for help with<br>🌱 I’m currently learning and sleeping at the same time<br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dodomyg&label=Profile%20views&color=0e75b6&style=flat" alt="dodomyg" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dodomyg) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dodomyg&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dodomyg&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dodomyg&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **reactJS**
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=dodomyg&icon=8&color=4)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dodomyg&show_icons=true&locale=en" alt="dodomyg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dodomyg&" alt="dodomyg" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
