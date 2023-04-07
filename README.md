@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning flutter<br>🤝 I’m looking for help with<br>🌱 I’m currently learning and sleeping at the same time<br>
+🔭 I’m currently learning flutter<br> <br>🌱 I’m currently learning and sleeping at the same time<br>
 
 
 ## 🌐 Socials:
