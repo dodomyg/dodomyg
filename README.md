@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning backend<br> <br>🌱 I’m currently learning and sleeping at the same time<br>
+🔭 I’m a Full Stack Web,App Developer <br> <br>🌱 Check out my project, hope you like them! <br>
 
 
 
