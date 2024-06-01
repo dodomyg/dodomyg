@@ -18,6 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dodomyg&show_icons=true&locale=en&layout=compact" backgroundColor="black" alt="dodomyg" /></p>
 
-<img src="https://streak-stats.demolab.com?user=basedharsh&theme=tokyonight&hide_border=true&border_radius=4.7" alt="harsh" width="50%"   />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dodomyg&" alt="dodomyg" /></p>
+<img src="https://streak-stats.demolab.com?user=dodomyg&theme=tokyonight&hide_border=true&border_radius=4.7" alt="sharvil" width="50%"   />
