@@ -18,6 +18,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dodomyg&show_icons=true&locale=en&layout=compact" backgroundColor="black" alt="dodomyg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dodomyg&show_icons=true&locale=en" alt="dodomyg" /></p>
+<div align="center">
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dodomyg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dodomyg&layout=compact&langs_count=8&theme=algolia"/>
+<br>
+<br>
+
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dodomyg&" alt="dodomyg" /></p>
