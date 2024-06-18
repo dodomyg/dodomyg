@@ -32,16 +32,15 @@
   ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
   ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
-  ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity)
-  ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
-  ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
   ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
   ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
   ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
   ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+  ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
   ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
-  
+  ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
+  ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity)
   
 </div>
 
