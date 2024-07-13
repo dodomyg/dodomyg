@@ -38,7 +38,6 @@
   ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
   ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
-  ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
   ![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
   ![Unity](https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity)
   
