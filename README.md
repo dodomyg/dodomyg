@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharvil Goverdhan</h1>
-<h3 align="center">A passionate Full Stack Web Developer ,Game Developer enthusiast</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eager+To+Learn;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
