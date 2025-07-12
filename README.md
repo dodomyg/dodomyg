@@ -1,6 +1,12 @@
-<h1 align="center">👋 Hi, I'm Sharvil Goverdhan</h1>
+<h1 align="center">👋 Hey, I'm Sharvil!</h1>
 
-<table align="center">
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Eager+To+Learn;Always%20learning%20new%20things&center=true&width=500&height=50">
+  </a>
+</p>
+
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <h3>🛠 Tech Stack</h3>
@@ -36,11 +42,11 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dodomyg&theme=dark" width="90%"/>
     </td>
     <td align="center" width="50%">
-      <h3>👀 Visitors</h3>
-      <img src="https://profile-counter.glitch.me/dodomyg/count.svg" />
+      <h3>🌟 GitHub Trophies</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=dodomyg&theme=matrix&margin-w=15&row=2&column=3" width="100%"/>
       <br/><br/>
-      <h3>🌟 Commit Graph</h3>
-      <img src="https://github-profile-trophy.vercel.app/?username=dodomyg&theme=matrix&margin-w=10&no-frame=true" width="90%"/>
+      <h3>👀 Visitor Count</h3>
+      <img src="https://profile-counter.glitch.me/dodomyg/count.svg" />
     </td>
   </tr>
 </table>
